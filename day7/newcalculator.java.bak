@@ -1,0 +1,11 @@
+class newcalculator
+{
+	public static void main(String[] args) 
+	{
+		System.out.println(calculatorapp.add(10,20));
+		System.out.println(calculatorapp.sub(20,10));
+		System.out.println(calculatorapp.mul(10,20));
+		System.out.println(calculatorapp.div(20.0,10.0));
+	}
+
+}
